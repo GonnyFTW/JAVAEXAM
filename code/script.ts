@@ -108,7 +108,7 @@ const applyFilter = () => {
 
 
 const loadData = async () => {
-    const dataUri = "https://raw.githubusercontent.com/sweko/uacs-internet-programming-exams/main/dry-run-mid-term/data/authors.json";
+    const dataUri = "https://github.com/GonnyFTW/JAVAEXAM/blob/main/data/authors.json";
     const response = await fetch(dataUri);
 
     if (!response.ok) {
