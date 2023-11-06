@@ -1,0 +1,65 @@
+[
+  {
+    "ID": 201,
+    "name": "Tirana Rocks",
+    "formed": 2003,
+    "location": "Tirana, Albania",
+    "country": "Albania",
+    "members": "Aldo Basha, Elsa Lila, Artan Lili, Bledar Sejko",
+    "albums": 4
+  },
+  {
+    "ID": 202,
+    "name": "Korça Soundwave",
+    "formed": 1998,
+    "location": "Korçë, Albania",
+    "country": "Albania",
+    "members": "Luan Bregu, Edona Lleshi, Dorian Sinani, Xhemal Zaimi",
+    "albums": 6
+  },
+  {
+    "ID": 203,
+    "name": "Vlora Voltage",
+    "formed": 2005,
+    "location": "Vlorë, Albania",
+    "country": "Albania",
+    "members": "Rexhina Hoxha, Arben Doda, Flutura Kola, Dritan Abazi",
+    "albums": 3
+  },
+  {
+    "ID": 204,
+    "name": "Shkodra Echo",
+    "formed": 1995,
+    "location": "Shkodër, Albania",
+    "country": "Albania",
+    "members": "Ardian Miftari, Elida Gega, Dorian Çaushi, Linda Bardhi",
+    "albums": 5
+  },
+  {
+    "ID": 205,
+    "name": "Gjirokastër Grunge",
+    "formed": 2000,
+    "location": "Gjirokastër, Albania",
+    "country": "Albania",
+    "members": "Aurel Mema, Alketa Xhufka, Luan Gjokaj, Emir Sina",
+    "albums": 4
+  },
+  {
+    "ID": 206,
+    "name": "Durres Drones",
+    "formed": 2012,
+    "location": "Durrës, Albania",
+    "country": "Albania",
+    "members": "Adrian Duraku, Anisa Feta, Blendi Malaj, Joni Demiraj",
+    "albums": 2
+  },
+  {
+    "ID": 207,
+    "name": "Elbasan Energizers",
+    "formed": 2007,
+    "location": "Elbasan, Albania",
+    "country": "Albania",
+    "members": "Arlind Bajrami, Klara Kurti, Albert Rama, Linda Dashi",
+    "albums": 3
+  }
+]
