@@ -61,5 +61,15 @@
     "country": "Albania",
     "members": "Arlind Bajrami, Klara Kurti, Albert Rama, Linda Dashi",
     "albums": 3
+  },
+  {
+    "ID": 207,
+    "name": "Elbasan Energizers",
+    "formed": 2007,
+    "location": "Elbasan, Albania",
+    "country": "Macedonia",
+    "members": "Arlind Bajrami, Klara Kurti, Albert Rama, Linda Dashi",
+    "albums": 3
   }
+  
 ]
